@@ -1,0 +1,19 @@
+.cartWidget{
+    font-size:1em;
+    color: #daa520;
+    margin: auto 1em;
+    transition: all 1s;
+    
+
+}
+
+.cartWidget:hover{
+    color: #000;
+    background-color: rgb(227, 143, 33);
+    padding: .4em;
+    border-radius: 5px 2px 2px 5px;
+    border: solid 2px #000;
+
+}
+    
+   

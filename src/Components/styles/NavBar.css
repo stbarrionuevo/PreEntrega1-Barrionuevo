@@ -1,0 +1,33 @@
+
+.b-estilo {
+    font-family: "PT Serif", serif;
+    color: #daa520;
+    transition: all 1s;
+  }
+  .b-estilo:hover {
+    color: rgb(227, 143, 33);
+  }
+  
+  ul li a {
+    font-family: "Macondo", cursive;
+    margin: auto 3em;
+  }
+  
+  .menu-hamburguesa {
+    background-color: #daa520;
+  }
+  .menu-hamburguesa:hover {
+    background-color: rgb(227, 143, 33);
+  }
+  
+
+
+.li-estilo li a, .li-estilo {
+    color: #daa520;
+    transition: all 1s;
+    font-size: .8em;
+    font-family: "PT Serif";
+  }
+  .li-estilo li a:hover, .li-estilo:hover {
+    color: rgb(227, 143, 33);
+  }
