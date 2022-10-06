@@ -11,6 +11,7 @@
   ul li a {
     font-family: "Macondo", cursive;
     margin: auto 3em;
+    
   }
   
   .menu-hamburguesa {
@@ -22,10 +23,10 @@
   
 
 
-.li-estilo li a, .li-estilo {
+.li-estilo, .nav-link{
     color: #daa520;
     transition: all 1s;
-    font-size: .8em;
+    font-size: 1.2em;
     font-family: "PT Serif";
   }
   .li-estilo li a:hover, .li-estilo:hover {
