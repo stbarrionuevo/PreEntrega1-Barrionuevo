@@ -1,0 +1,56 @@
+.empty-cart-container{
+    margin-top: 10em;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.error-message{
+    color: rgb(220,0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.success-message{
+    color: rgb(0, 220 , 0);
+}
+
+.title-order , .p-cart{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1em;
+}
+
+.form-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.input{
+    border-radius: 2px 5px 2px 5px;
+    margin: .5em;
+
+}
+
+.boton{
+    background-color: rgb(227, 143, 33)
+}
+
+.boton-link{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+    transition: all 1s;
+}
+
+.boton-link:hover{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+.p-empty{
+    font-size: 2em;
+}
+

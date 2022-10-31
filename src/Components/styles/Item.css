@@ -1,7 +1,4 @@
-.container{
-    width: 98%;
-    margin: auto;
-}
+
 
 
 .detail{
@@ -26,19 +23,27 @@
 
 .detail__title , .detail__p{
     color: #fff;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
 .dp {
     font-size: 1.5em;
+    font-family: 'Jost', sans-serif;
 }
 
 .contenedor-item{
-    margin: 4em;
+    margin: 2em;
+    margin-top: 6em;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     border: 4px double #000;
     background-color: rgb(227, 143, 33);
+    
+}
+.contenedor-catalogo{
+    display: block;
 }
 
 
@@ -47,13 +52,29 @@
     margin: 1em;
     font-size: 2em;
     text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .item-img{
 
-    width: 100%;
+    width: 100vh;
 }
 
 .link{
     text-decoration: none;
+}
+
+.detail__link{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 2em;
+    transition: all 1s;
+}
+
+.detail__link:hover{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(242, 161, 9);
+    font-size: 2em;
 }

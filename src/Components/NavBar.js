@@ -30,12 +30,10 @@ const NavBar = () =>{
                 <NavLink className="nav-link li-estilo" to="/categoria/urbana">Indumentaria Urbana</NavLink>
              </li>
 
-             <li className="nav-item">
-                <NavLink className="nav-link li-estilo" to="/">Ayuda</NavLink>
-             </li>
+             
 
         
-               <NavLink to="/carrito">
+               <NavLink to="/cart">
               <CartWidget/>
               </NavLink>
             </ul>
