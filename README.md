@@ -5,7 +5,9 @@ Cuenta con una NavBar en donde está el nombre (Logo) del e-commerce "Kanki Stor
 
 ## Base de Datos en Cloud Firestore
 
-El cátalogo del proyecto se encuentra subido y detallado en Firebase, donde también a la hora de finalizar la compra se genera una nueva colección en donde se archivarán las ordenes de compra efectuadas detallando el nombre, apellido y télefono del comprador (Además del importe total de su compra y la cantidad de productos que se compraron)
+El cátalogo del proyecto se encuentra subido y detallado en Firebase, donde también a la hora de finalizar la compra se genera una nueva colección en donde se archivarán las ordenes de compra efectuadas detallando el nombre, apellido, email, verificacion de email y ciudad (Además del importe total de su compra y la cantidad de productos que se compraron)
+
+https://console.firebase.google.com/u/0/project/kanki-store/firestore/data/~2Fproductos~2FMf5wv1bvLTZfNcYyRr9H?hl=es-419
 
 ### Bibliotecas o Dependencias externas
 
